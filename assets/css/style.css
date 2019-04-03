@@ -1,0 +1,7 @@
+button, div, form, input {
+    margin: 10px;
+}
+body {
+    background-color: lightsteelblue;
+    font-weight: bold;
+}
